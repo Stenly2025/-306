@@ -1,0 +1,15 @@
+C:\Projects\C#\Painting\Painting\bin\Release\Painting.exe.config
+C:\Projects\C#\Painting\Painting\bin\Release\Painting.exe
+C:\Projects\C#\Painting\Painting\bin\Release\Painting.pdb
+C:\Projects\C#\Painting\Painting\obj\Release\Painting.csprojAssemblyReference.cache
+C:\Projects\C#\Painting\Painting\obj\Release\MainWindow.g.cs
+C:\Projects\C#\Painting\Painting\obj\Release\App.g.cs
+C:\Projects\C#\Painting\Painting\obj\Release\Painting_MarkupCompile.cache
+C:\Projects\C#\Painting\Painting\obj\Release\Painting_MarkupCompile.lref
+C:\Projects\C#\Painting\Painting\obj\Release\MainWindow.baml
+C:\Projects\C#\Painting\Painting\obj\Release\Painting.g.resources
+C:\Projects\C#\Painting\Painting\obj\Release\Painting.Properties.Resources.resources
+C:\Projects\C#\Painting\Painting\obj\Release\Painting.csproj.GenerateResource.cache
+C:\Projects\C#\Painting\Painting\obj\Release\Painting.csproj.CoreCompileInputs.cache
+C:\Projects\C#\Painting\Painting\obj\Release\Painting.exe
+C:\Projects\C#\Painting\Painting\obj\Release\Painting.pdb

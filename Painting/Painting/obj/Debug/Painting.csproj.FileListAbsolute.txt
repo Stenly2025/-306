@@ -1,0 +1,60 @@
+C:\Projects\C#\Painting\Painting\bin\Debug\Painting.exe.config
+C:\Projects\C#\Painting\Painting\bin\Debug\Painting.exe
+C:\Projects\C#\Painting\Painting\bin\Debug\Painting.pdb
+C:\Projects\C#\Painting\Painting\obj\Debug\Painting.csprojAssemblyReference.cache
+C:\Projects\C#\Painting\Painting\obj\Debug\MainWindow.g.cs
+C:\Projects\C#\Painting\Painting\obj\Debug\App.g.cs
+C:\Projects\C#\Painting\Painting\obj\Debug\Painting_MarkupCompile.cache
+C:\Projects\C#\Painting\Painting\obj\Debug\Painting_MarkupCompile.lref
+C:\Projects\C#\Painting\Painting\obj\Debug\MainWindow.baml
+C:\Projects\C#\Painting\Painting\obj\Debug\Painting.g.resources
+C:\Projects\C#\Painting\Painting\obj\Debug\Painting.Properties.Resources.resources
+C:\Projects\C#\Painting\Painting\obj\Debug\Painting.csproj.GenerateResource.cache
+C:\Projects\C#\Painting\Painting\obj\Debug\Painting.csproj.CoreCompileInputs.cache
+C:\Projects\C#\Painting\Painting\obj\Debug\Painting.exe
+C:\Projects\C#\Painting\Painting\obj\Debug\Painting.pdb
+C:\Users\Jetug\Desktop\Painting\Painting\bin\Debug\Painting.exe.config
+C:\Users\Jetug\Desktop\Painting\Painting\bin\Debug\Painting.exe
+C:\Users\Jetug\Desktop\Painting\Painting\bin\Debug\Painting.pdb
+C:\Users\Jetug\Desktop\Painting\Painting\obj\Debug\Painting.csprojAssemblyReference.cache
+C:\Users\Jetug\Desktop\Painting\Painting\obj\Debug\MainWindow.g.cs
+C:\Users\Jetug\Desktop\Painting\Painting\obj\Debug\App.g.cs
+C:\Users\Jetug\Desktop\Painting\Painting\obj\Debug\Painting_MarkupCompile.cache
+C:\Users\Jetug\Desktop\Painting\Painting\obj\Debug\Painting_MarkupCompile.lref
+C:\Users\Jetug\Desktop\Painting\Painting\obj\Debug\MainWindow.baml
+C:\Users\Jetug\Desktop\Painting\Painting\obj\Debug\Painting.g.resources
+C:\Users\Jetug\Desktop\Painting\Painting\obj\Debug\Painting.Properties.Resources.resources
+C:\Users\Jetug\Desktop\Painting\Painting\obj\Debug\Painting.csproj.GenerateResource.cache
+C:\Users\Jetug\Desktop\Painting\Painting\obj\Debug\Painting.csproj.CoreCompileInputs.cache
+C:\Users\Jetug\Desktop\Painting\Painting\obj\Debug\Painting.exe
+C:\Users\Jetug\Desktop\Painting\Painting\obj\Debug\Painting.pdb
+C:\Users\kserg\OneDrive\Рабочий стол\Painting\Painting\bin\Debug\Painting.exe.config
+C:\Users\kserg\OneDrive\Рабочий стол\Painting\Painting\bin\Debug\Painting.exe
+C:\Users\kserg\OneDrive\Рабочий стол\Painting\Painting\bin\Debug\Painting.pdb
+C:\Users\kserg\OneDrive\Рабочий стол\Painting\Painting\obj\Debug\Painting.csprojAssemblyReference.cache
+C:\Users\kserg\OneDrive\Рабочий стол\Painting\Painting\obj\Debug\MainWindow.g.cs
+C:\Users\kserg\OneDrive\Рабочий стол\Painting\Painting\obj\Debug\App.g.cs
+C:\Users\kserg\OneDrive\Рабочий стол\Painting\Painting\obj\Debug\Painting_MarkupCompile.cache
+C:\Users\kserg\OneDrive\Рабочий стол\Painting\Painting\obj\Debug\Painting_MarkupCompile.lref
+C:\Users\kserg\OneDrive\Рабочий стол\Painting\Painting\obj\Debug\MainWindow.baml
+C:\Users\kserg\OneDrive\Рабочий стол\Painting\Painting\obj\Debug\Painting.g.resources
+C:\Users\kserg\OneDrive\Рабочий стол\Painting\Painting\obj\Debug\Painting.Properties.Resources.resources
+C:\Users\kserg\OneDrive\Рабочий стол\Painting\Painting\obj\Debug\Painting.csproj.GenerateResource.cache
+C:\Users\kserg\OneDrive\Рабочий стол\Painting\Painting\obj\Debug\Painting.csproj.CoreCompileInputs.cache
+C:\Users\kserg\OneDrive\Рабочий стол\Painting\Painting\obj\Debug\Painting.exe
+C:\Users\kserg\OneDrive\Рабочий стол\Painting\Painting\obj\Debug\Painting.pdb
+C:\Users\denis\source\repos\Painting\Painting\bin\Debug\Painting.exe.config
+C:\Users\denis\source\repos\Painting\Painting\bin\Debug\Painting.exe
+C:\Users\denis\source\repos\Painting\Painting\bin\Debug\Painting.pdb
+C:\Users\denis\source\repos\Painting\Painting\obj\Debug\Painting.csprojAssemblyReference.cache
+C:\Users\denis\source\repos\Painting\Painting\obj\Debug\MainWindow.g.cs
+C:\Users\denis\source\repos\Painting\Painting\obj\Debug\App.g.cs
+C:\Users\denis\source\repos\Painting\Painting\obj\Debug\Painting_MarkupCompile.cache
+C:\Users\denis\source\repos\Painting\Painting\obj\Debug\Painting_MarkupCompile.lref
+C:\Users\denis\source\repos\Painting\Painting\obj\Debug\MainWindow.baml
+C:\Users\denis\source\repos\Painting\Painting\obj\Debug\Painting.g.resources
+C:\Users\denis\source\repos\Painting\Painting\obj\Debug\Painting.Properties.Resources.resources
+C:\Users\denis\source\repos\Painting\Painting\obj\Debug\Painting.csproj.GenerateResource.cache
+C:\Users\denis\source\repos\Painting\Painting\obj\Debug\Painting.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\Painting\Painting\obj\Debug\Painting.exe
+C:\Users\denis\source\repos\Painting\Painting\obj\Debug\Painting.pdb
